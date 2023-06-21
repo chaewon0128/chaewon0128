@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img href="https://velog.io/@dolfin" src="https://img.shields.io/badge/dolfin.log-20C997?style=flat&logo=velog&logoColor=white" />
+ <a href="https://velog.io/@dolfin" > <img src="https://img.shields.io/badge/dolfin.log-20C997?style=flat&logo=velog&logoColor=white" /></a>
 </div>
 <br>
 <div align="center">
